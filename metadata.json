@@ -1,0 +1,6 @@
+{
+  "name": "RollCall - Student Attendance Tracker",
+  "description": "A modern, student-friendly attendance app with daily class logging, 75% threshold alerts, weekly timetable, interactive calendar, and subject analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
